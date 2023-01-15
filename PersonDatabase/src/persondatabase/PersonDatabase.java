@@ -16,7 +16,7 @@ import java.sql.Statement;
 import java.io.File;
 
 /**
- * //Wajeeha Kashif   Roll No:18L-1204    Section: BCS-6A
+ * //
 //This program is address book that adds, deletes search and update person data
  */
 public class PersonDatabase extends JFrame implements ActionListener {
